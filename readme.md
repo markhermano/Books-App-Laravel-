@@ -4,10 +4,8 @@
 
 ### Roles
 
-Admin - could create user and view books
-
-Reader - view books of writer which the reader have an access
-
+Admin - could create user and view books<br/>
+Reader - view books of writer which the reader have an access<br/>
 Writer - create books (book title and description) / add a reader who could access the book
 
 ### Demo Users
