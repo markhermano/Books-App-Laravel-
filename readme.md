@@ -1,5 +1,9 @@
 ## Simple Book Application
 
+![alt text](https://cdn6.aptoide.com/imgs/4/2/2/422a398f51de0a44541855658a3762d2_icon.png?w=256)
+
+### Roles
+
 Admin - could create user and view books
 
 Reader - view books of writer which the reader have an access
